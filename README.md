@@ -182,7 +182,14 @@ The project can be enhanced with the following features:
 
 ## 🎯 Project Outcome
 
-The College Event Registration System demonstrates how relational database concepts can be applied to solve real-world problems. It successfully integrates a Flask backend with an SQLite database and implements essential DBMS operations, including CRUD operations, joins, primary keys, foreign keys and normalization.
+The College Event Registration System demonstrates how relational database concepts can be applied to solve real-world problems. It successfully integrates a Flask backend with an SQLite database and implements essential DBMS operations, including CRUD operations, joins, primary keys, foreign keys and normalization. 
+## 📸 Application Screenshots
+
+### 1. Homepage
+![Homepage](screenshots/homepage.png)
+
+### 2. Event Registration
+![Registration Page](screenshots/registration.png)
 
 ---
 
